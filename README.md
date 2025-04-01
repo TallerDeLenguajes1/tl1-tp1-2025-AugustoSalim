@@ -15,3 +15,6 @@ Las entradas de este archivo también pueden seguir un patrón coincidente:
 *- se utiliza como una coincidencia comodín.
 /- se usa para ignorar las rutas relativas al archivo .gitignore.
 #- es usado para agregar comentarios
+
+
+3c- 
